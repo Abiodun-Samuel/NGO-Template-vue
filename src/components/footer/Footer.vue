@@ -47,15 +47,15 @@
               <router-link to="/" class="relative cursor-pointer">
                 <img
                   src="/assets/images/logo/logo.jpg"
-                  alt="Glorious Mission Aid Network Logo"
+                  alt="Community Impact Network Logo"
                   class="h-14 w-auto rounded"
                 />
               </router-link>
             </div>
 
             <p class="text-sm leading-relaxed text-stone-300">
-              The Glorious Mission Aid Network (GMAN) is the Mission and
-              Outreach arm of The Glorious Church Int'l. Our mandate is to meet
+              The Community Impact Network (CIN) is the Mission and
+              Outreach arm of Community Outreach Collective. Our mandate is to meet
               the pressing needs of the impoverished and most vulnerable in our
               society with dignity, compassion, and lasting impact.
             </p>
@@ -145,7 +145,7 @@
             >
               <p class="text-xs text-stone-300 mb-5 leading-relaxed">
                 Your donations make a real difference in communities across
-                Nigeria.
+                Sample Region.
               </p>
 
               <dl class="space-y-3 text-sm">
@@ -154,7 +154,7 @@
                 >
                   <dt class="text-stone-400 text-xs">Account Name</dt>
                   <dd class="text-right font-medium text-stone-200 text-xs">
-                    Glorious Mission Aid Network
+                    Community Impact Network
                   </dd>
                 </div>
                 <div
@@ -168,7 +168,7 @@
                 <div class="flex items-start justify-between gap-3">
                   <dt class="text-stone-400 text-xs">Bank</dt>
                   <dd class="text-right font-medium text-stone-200 text-xs">
-                    Zenith Bank Nigeria
+                    Zenith Bank Sample Region
                   </dd>
                 </div>
               </dl>
@@ -292,7 +292,7 @@
             <p class="text-sm text-stone-400">
               © {{ year }}
               <span class="text-stone-300 font-medium"
-                >Glorious Mission Aid Network</span
+                >Community Impact Network</span
               >. All rights reserved.
             </p>
 
@@ -331,7 +331,7 @@ import {
   Heart,
 } from "lucide-vue-next";
 
-const email = "gmanglobal23@gmail.com";
+const email = "hello@example.com";
 const year = new Date().getFullYear();
 const showBackToTop = ref(false);
 

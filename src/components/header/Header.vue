@@ -74,7 +74,7 @@ const menuItems = [
   },
   {
     name: "Blog",
-    path: "https://thegloriouschurchinternational.wordpress.com/",
+    path: "https://example.com/blog/",
     icon: BookOpen,
     external: true,
   },

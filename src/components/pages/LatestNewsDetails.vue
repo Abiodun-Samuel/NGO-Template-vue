@@ -86,7 +86,7 @@
                 <div class="text-sm font-semibold text-white">
                   {{ post.author }}
                 </div>
-                <div class="text-xs text-white/60">GMAN Team</div>
+                <div class="text-xs text-white/60">CIN Team</div>
               </div>
             </div>
 
@@ -229,12 +229,12 @@
                     </div>
                     <div>
                       <h3 class="text-lg font-bold">{{ post.author }}</h3>
-                      <p class="text-sm text-white/80">GMAN Team</p>
+                      <p class="text-sm text-white/80">CIN Team</p>
                     </div>
                   </div>
                   <p class="text-sm text-white/90 mb-4">
                     Sharing stories of hope, transformation, and community
-                    impact across Nigeria.
+                    impact across Sample Region.
                   </p>
                   <router-link
                     to="/latest-news"

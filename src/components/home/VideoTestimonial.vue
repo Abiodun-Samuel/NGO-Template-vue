@@ -175,7 +175,7 @@
               <div class="font-bold text-white text-base sm:text-lg">
                 Community Leader
               </div>
-              <div class="text-sm text-stone-400">Lagos, Nigeria</div>
+              <div class="text-sm text-stone-400">Sample City, Sample Region</div>
             </div>
           </div> -->
         </div>

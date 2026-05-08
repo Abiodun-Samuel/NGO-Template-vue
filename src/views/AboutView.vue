@@ -4,7 +4,7 @@
     <PageHero
       badge="Who We Are"
       title="Empowering Lives, {{Transforming}} Communities"
-      :description="`The <strong>Glorious Mission Aid Network (GMAN)</strong> is the Mission and Outreach arm of <span class='font-semibold text-gman-gold-300'>The Glorious Church Int'l</span>, dedicated to meeting the needs of the impoverished and vulnerable with dignity and compassion.`"
+      :description="`The <strong>Community Impact Network (CIN)</strong> is the Mission and Outreach arm of <span class='font-semibold text-gman-gold-300'>Community Outreach Collective</span>, dedicated to meeting the needs of the impoverished and vulnerable with dignity and compassion.`"
       :breadcrumbs="[{ label: 'Home', to: '/' }, { label: 'About Us' }]"
       :stats="[
         { value: '5000+', label: 'Lives Touched' },

@@ -11,7 +11,7 @@ const router = createRouter({
             component: () => import('@/views/HomeView.vue'),
             meta: {
                 title: 'Home',
-                description: 'Glorious Mission Aid Network - Making a difference in communities'
+                description: 'Community Impact Network - Making a difference in communities'
             }
         },
 
@@ -55,7 +55,7 @@ const router = createRouter({
             component: () => import('@/views/ContactView.vue'),
             meta: {
                 title: 'Contact Us',
-                description: 'Get in touch with the GMAN team'
+                description: 'Get in touch with the CIN team'
             }
         },
 
@@ -66,7 +66,7 @@ const router = createRouter({
             component: () => import('@/views/NewsView.vue'),
             meta: {
                 title: 'Latest News',
-                description: 'Stories, updates, and insights from GMAN'
+                description: 'Stories, updates, and insights from CIN'
             }
         },
 
@@ -77,7 +77,7 @@ const router = createRouter({
             component: () => import('@/views/NewsDetailView.vue'),
             meta: {
                 title: 'Latest News',
-                description: 'Stories, updates, and insights from GMAN'
+                description: 'Stories, updates, and insights from CIN'
             }
         },
 
@@ -108,7 +108,7 @@ const router = createRouter({
 })
 
 router.beforeEach((to, from, next) => {
-    const baseTitle = 'GMAN - Glorious Mission Aid Network'
+    const baseTitle = 'CIN - Community Impact Network'
     document.title = to.meta.title ? `${to.meta.title} | ${baseTitle}` : baseTitle
 
     const metaDescription = document.querySelector('meta[name="description"]')

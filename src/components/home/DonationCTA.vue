@@ -118,7 +118,7 @@
               class="flex justify-between items-center py-3 border-b border-white/10"
             >
               <span class="font-semibold text-white">Bank:</span>
-              <span class="text-right">Zenith Bank Nigeria</span>
+              <span class="text-right">Zenith Bank Sample Region</span>
             </div>
             <div
               class="flex justify-between items-center py-3 border-b border-white/10"
@@ -130,7 +130,7 @@
             </div>
             <div class="flex justify-between items-center py-3">
               <span class="font-semibold text-white">Account Name:</span>
-              <span class="text-right">Glorious Mission Aid Network</span>
+              <span class="text-right">Community Impact Network</span>
             </div>
           </div>
         </div>

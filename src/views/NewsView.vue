@@ -3,7 +3,7 @@
     <PageHero
       badge="Stay Updated"
       title="Latest {{News}} & Updates"
-      description="Stay informed about our latest missions, impact stories, and community transformations. Discover how your support is making a real difference across Nigeria."
+      description="Stay informed about our latest missions, impact stories, and community transformations. Discover how your support is making a real difference across Sample Region."
       :breadcrumbs="[{ label: 'Home', to: '/' }, { label: 'Latest News' }]"
       :buttons="[
         {

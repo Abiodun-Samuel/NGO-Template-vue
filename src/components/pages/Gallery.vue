@@ -172,7 +172,7 @@
           </h2>
           <p class="text-lg sm:text-xl text-white/90 mb-8">
             Join us in creating more moments of impact and hope across
-            communities in Nigeria.
+            communities in Sample Region.
           </p>
           <div class="flex flex-col sm:flex-row gap-4 justify-center">
             <Button
@@ -500,10 +500,10 @@ import Button from "@/components/ui/Button.vue";
 const galleryItems = ref([
   {
     id: 8,
-    title: "PPP Outreach 2025 at The Message Assembly Church Awoyaya",
+    title: "PPP Outreach 2025 at The Message Assembly Church Sample District",
     year: 2025,
     category: "Outreach",
-    location: "Awoyaya, Lagos",
+    location: "Sample District, Sample City",
     folder: "gman-outreach-2025",
     imageCount: 13,
     videos: [
@@ -514,10 +514,10 @@ const galleryItems = ref([
   },
   {
     id: 9,
-    title: "GMAN Outreach Mission at Wuse, Abuja 2025",
+    title: "CIN Outreach Mission at Wuse, Sample City 2025",
     year: 2025,
     category: "Outreach",
-    location: "Wuse, Abuja",
+    location: "Wuse, Sample City",
     folder: "wuse-outreach-2025",
     imageCount: 52,
     videos: [],
@@ -527,8 +527,8 @@ const galleryItems = ref([
   {
     id: 6,
     title:
-      "GMAN at Omojolagbe Geriatric Care Foundation 2024 - Medical Outreach",
-    description: "In memory of Pastor Lublian Tolu Mendel-Idowu",
+      "CIN at Sample Care Center Geriatric Care Foundation 2024 - Medical Outreach",
+    description: "In memory of Alex Johnson",
     year: 2024,
     category: "Medical",
     location: "Isebo, Ibadan, Oyo State",
@@ -539,10 +539,10 @@ const galleryItems = ref([
   },
   {
     id: 7,
-    title: "GMAN and PPP outreach at Message Assembly Awoyaya, 2024",
+    title: "CIN and PPP outreach at Message Assembly Sample District, 2024",
     year: 2024,
     category: "Outreach",
-    location: "Awoyaya, Lagos",
+    location: "Sample District, Sample City",
     folder: "gman-outreach-2024",
     imageCount: 56,
     videos: [],
@@ -554,7 +554,7 @@ const galleryItems = ref([
     title: "People of Passion and Purpose Mission at Foursquare Church.",
     year: 2023,
     category: "Mission",
-    location: "Ojota, Lagos",
+    location: "Ojota, Sample City",
     folder: "ppp-ojota",
     imageCount: 160,
     videos: [],
@@ -562,7 +562,7 @@ const galleryItems = ref([
   },
   {
     id: 2,
-    title: "Medical Outreach - Omojolagbe Geriatric Care Foundation 2023.",
+    title: "Medical Outreach - Sample Care Center Geriatric Care Foundation 2023.",
     year: 2023,
     category: "Medical",
     location: "Isebo, Ibadan, Oyo State",
@@ -574,10 +574,10 @@ const galleryItems = ref([
   {
     id: 3,
     title:
-      "GMAN & PPP Mission at The Message Assembly Church, Awoyaya Community, 2023",
+      "CIN & PPP Mission at The Message Assembly Church, Sample District Community, 2023",
     year: 2023,
     category: "Mission",
-    location: "Awoyaya, Lagos",
+    location: "Sample District, Sample City",
     folder: "gman-awoyaya-2023",
     imageCount: 69,
     videos: [],
@@ -587,10 +587,10 @@ const galleryItems = ref([
   {
     id: 4,
     title:
-      "GMAN & PPP Mission at The Message Assembly Church, Awoyaya Community, 2022",
+      "CIN & PPP Mission at The Message Assembly Church, Sample District Community, 2022",
     year: 2022,
     category: "Mission",
-    location: "Awoyaya, Lagos",
+    location: "Sample District, Sample City",
     folder: "gman-awoyaya-2022",
     imageCount: 17,
     videos: [],
@@ -599,10 +599,10 @@ const galleryItems = ref([
 
   {
     id: 5,
-    title: "GMAN at The Message Assembly Church, Awoyaya Community, 2021",
+    title: "CIN at The Message Assembly Church, Sample District Community, 2021",
     year: 2021,
     category: "Mission",
-    location: "Awoyaya, Lagos",
+    location: "Sample District, Sample City",
     folder: "gman-awoyaya-2021",
     imageCount: 89,
     videos: [],

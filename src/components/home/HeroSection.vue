@@ -43,7 +43,7 @@
               <span
                 class="text-[10px] font-bold text-stone-700 tracking-wider uppercase"
               >
-                GMAN
+                CIN
               </span>
               <div class="h-3 w-px bg-stone-300"></div>
               <span class="text-[10px] text-stone-600 font-medium">

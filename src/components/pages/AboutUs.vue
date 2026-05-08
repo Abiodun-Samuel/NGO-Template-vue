@@ -84,7 +84,7 @@
                   class="text-base sm:text-lg lg:text-xl text-purple-100 leading-relaxed"
                 >
                   Building hope and creating lasting impact in communities
-                  across Nigeria with dignity and unwavering commitment.
+                  across Sample Region with dignity and unwavering commitment.
                 </p>
 
                 <!-- Stats Grid -->
@@ -126,10 +126,10 @@
                     <span
                       class="font-bold text-transparent bg-clip-text bg-gradient-to-r from-gman-purple-600 via-gman-purple-500 to-gman-gold-600"
                     >
-                      Glorious Mission Aid Network (GMAN)
+                      Community Impact Network (CIN)
                     </span>
                     stands as the compassionate Mission and Outreach extension
-                    of The Glorious Church Int'l.
+                    of Community Outreach Collective.
                   </p>
 
                   <p
@@ -146,7 +146,7 @@
                   >
                     We take pride in fostering empowerment through various
                     schemes tailored for women and children, including
-                    scholarships and business opportunities. At GMAN, we believe
+                    scholarships and business opportunities. At CIN, we believe
                     in transforming lives and creating a future filled with hope
                     and opportunity for all.
                   </p>
@@ -202,9 +202,9 @@
                         <p
                           class="text-xs sm:text-sm text-stone-700 mb-4 leading-relaxed"
                         >
-                          Glorious Mission Aid Network (GMAN) is registered as a
+                          Community Impact Network (CIN) is registered as a
                           corporate body with the Corporate Affairs Commission
-                          (CAC), Nigeria.
+                          (CAC), Sample Region.
                         </p>
 
                         <div
@@ -387,7 +387,7 @@
           <p class="text-lg sm:text-xl text-white/90 mb-8">
             Every contribution, every hour volunteered, every voice raised makes
             a difference. Join us in transforming lives and empowering
-            communities across Nigeria.
+            communities across Sample Region.
           </p>
           <div class="flex flex-col sm:flex-row gap-4 justify-center">
             <Button
@@ -536,7 +536,7 @@
                         >
                           <Shield :size="14" class="text-gman-gold-400" />
                         </div>
-                        <span class="text-[10px]">GMAN Leadership</span>
+                        <span class="text-[10px]">CIN Leadership</span>
                       </div>
                       <div class="flex items-center gap-2 text-stone-400">
                         <div
@@ -680,11 +680,11 @@ const teamMembers = [
     summary:
       "Resident Pastor and Social Care Practitioner with honours from TU Dublin",
     fullBio: `
-      <p>The <strong>Resident Pastor</strong> of The Glorious Church Int'l Adamstown Co. Dublin.</p>
+      <p>The <strong>Resident Pastor</strong> of Community Outreach Collective Adamstown Co. Dublin.</p>
       
       <p>A <strong>Social Care Practitioner</strong> with honours degree in Applied Social Care Practice from the Technological University of Dublin.</p>
       
-      <p>Mary functions in the role of <strong>Secretary of GMAN</strong>, bringing her pastoral care expertise and social care knowledge to support the organization's mission of serving vulnerable communities with compassion and professionalism.</p>
+      <p>Mary functions in the role of <strong>Secretary of CIN</strong>, bringing her pastoral care expertise and social care knowledge to support the organization's mission of serving vulnerable communities with compassion and professionalism.</p>
     `,
   },
   {
@@ -699,7 +699,7 @@ const teamMembers = [
       
       <p>A proud graduate of <strong>Ajayi Crowther University Oyo</strong>, with <strong>Accounting and Finance honours degree</strong>.</p>
       
-      <p>Oluwadamilare functions as the <strong>Financial Treasurer of GMAN</strong>, combining his design expertise with financial acumen to ensure transparent and effective management of the organization's resources, while bringing a modern, tech-forward approach to financial stewardship.</p>
+      <p>Oluwadamilare functions as the <strong>Financial Treasurer of CIN</strong>, combining his design expertise with financial acumen to ensure transparent and effective management of the organization's resources, while bringing a modern, tech-forward approach to financial stewardship.</p>
     `,
   },
   {
@@ -711,11 +711,11 @@ const teamMembers = [
     summary:
       "Veteran broadcaster with 35 years at NTA, Order of John Wesley member",
     fullBio: `
-      <p>A <strong>retired public servant</strong> having worked with the <strong>Nigerian Television Authority, Ibadan</strong> in the programs division for <strong>35 years</strong>.</p>
+      <p>A <strong>retired public servant</strong> having worked with the <strong>Sample Regionn Television Authority, Ibadan</strong> in the programs division for <strong>35 years</strong>.</p>
       
-      <p>Olabisi is a serving member of the <strong>Methodist Church Nigeria</strong> and was honoured as a member of the <strong>Order of John Wesley</strong>.</p>
+      <p>Olabisi is a serving member of the <strong>Methodist Church Sample Region</strong> and was honoured as a member of the <strong>Order of John Wesley</strong>.</p>
       
-      <p>An alumnus of the prestigious <strong>University of Ibadan</strong>, Olabisi brings decades of media, communications, and public service experience to GMAN's board, providing invaluable guidance on outreach and community engagement.</p>
+      <p>An alumnus of the prestigious <strong>University of Ibadan</strong>, Olabisi brings decades of media, communications, and public service experience to CIN's board, providing invaluable guidance on outreach and community engagement.</p>
     `,
   },
   {
@@ -733,7 +733,7 @@ const teamMembers = [
       
       <p>She enjoys <strong>creative ideation, problem-solving</strong> for individuals and businesses, communication, and personal and professional development for individuals.</p>
       
-      <p>With years of <strong>leadership and stakeholder management experience</strong>, she brings strategic insight, innovative thinking, and a people-centered approach to GMAN's mission of empowering communities.</p>
+      <p>With years of <strong>leadership and stakeholder management experience</strong>, she brings strategic insight, innovative thinking, and a people-centered approach to CIN's mission of empowering communities.</p>
     `,
   },
   {
@@ -745,7 +745,7 @@ const teamMembers = [
     summary:
       "Project Management Expert, Media Host, with 20+ years global experience",
     fullBio: `
-      <p><strong>Non-Executive Director</strong> at Glorious Mission Aid Network (GMAN) with more than <strong>20 years of experience</strong> in project management, advisory, adjudication, and arbitration support for Fortune 500 and multinational companies across continents.</p>
+      <p><strong>Non-Executive Director</strong> at Community Impact Network (CIN) with more than <strong>20 years of experience</strong> in project management, advisory, adjudication, and arbitration support for Fortune 500 and multinational companies across continents.</p>
       
       <p>Sheun hosts a show called <strong>EXCELLENT MINDSET</strong> on radio and television stations across Africa, Europe, and the Middle East, teaching young professionals and entrepreneurs how to develop excellent leadership skills using biblical principles.</p>
       
@@ -758,7 +758,7 @@ const teamMembers = [
         <li>Alumnus of Western University, Canada</li>
       </ul>
       
-      <p>His diverse expertise in project management, legal frameworks, and leadership development makes him an invaluable strategic advisor to GMAN's initiatives.</p>
+      <p>His diverse expertise in project management, legal frameworks, and leadership development makes him an invaluable strategic advisor to CIN's initiatives.</p>
     `,
   },
 ];
