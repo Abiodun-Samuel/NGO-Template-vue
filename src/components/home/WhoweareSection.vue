@@ -214,9 +214,9 @@
               <span
                 class="font-bold text-transparent bg-clip-text bg-gradient-to-r from-gman-purple-600 to-gman-gold-500"
               >
-                Glorious Mission Aid Network (GMAN)
+                Community Impact Network (CIN)
               </span>
-              is the Mission and Outreach arm of The Glorious Church Int'l. Our
+              is the Mission and Outreach arm of Community Outreach Collective. Our
               mandate is to meet the pressing needs of the impoverished and most
               vulnerable in our society with
               <span class="font-semibold text-stone-800"
@@ -379,7 +379,7 @@ const focusAreas = [
     icon: Utensils,
     title: "Free Food Distribution",
     description:
-      "Providing nutritious meals and food packages to families in underserved communities across Nigeria.",
+      "Providing nutritious meals and food packages to families in underserved communities across Sample Region.",
   },
   {
     icon: Stethoscope,

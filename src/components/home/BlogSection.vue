@@ -45,7 +45,7 @@
           data-aos-delay="100"
         >
           Discover inspiring testimonies, mission updates, and stories of lives
-          transformed through faith and compassion across Nigeria.
+          transformed through faith and compassion across Sample Region.
         </p>
 
         <!-- Features Grid -->

@@ -295,7 +295,7 @@
                 Where Your Support Goes
               </h3>
               <p class="text-white/70 text-sm">
-                Every contribution directly transforms lives across Nigeria
+                Every contribution directly transforms lives across Sample Region
               </p>
             </div>
 
@@ -415,7 +415,7 @@
                         Bank Name
                       </p>
                       <p class="text-base font-bold text-stone-900">
-                        Zenith Bank Nigeria
+                        Zenith Bank Sample Region
                       </p>
                     </div>
 
@@ -465,7 +465,7 @@
                         Account Name
                       </p>
                       <p class="text-sm font-bold text-stone-900 leading-tight">
-                        Glorious Mission Aid Network
+                        Community Impact Network
                       </p>
                     </div>
 
@@ -686,9 +686,9 @@
                   Sorry, there was an error sending your message. Please try
                   again or email us directly at
                   <a
-                    href="mailto:gmanglobal23@gmail.com"
+                    href="mailto:hello@example.com"
                     class="underline font-semibold"
-                    >gmanglobal23@gmail.com</a
+                    >hello@example.com</a
                   >
                 </p>
               </div>
@@ -730,8 +730,8 @@
           Together, We Can Transform Lives
         </h2>
         <p class="text-lg sm:text-xl text-white/90 mb-6 sm:mb-8">
-          Join the GMAN family and be part of a movement that's making real,
-          lasting change in communities across Nigeria.
+          Join the CIN family and be part of a movement that's making real,
+          lasting change in communities across Sample Region.
         </p>
         <div class="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center">
           <Button
@@ -812,7 +812,7 @@ const waysToHelp = ref([
   {
     title: "Corporate Partnership",
     description:
-      "Partner with GMAN to create sustainable community impact while enhancing your corporate social responsibility goals.",
+      "Partner with CIN to create sustainable community impact while enhancing your corporate social responsibility goals.",
     icon: Briefcase,
     gradient: "linear-gradient(135deg, #684078 0%, #5d2b7a 100%)",
     cta: "Explore Partnership",
@@ -830,7 +830,7 @@ const waysToHelp = ref([
   {
     title: "Organize a Fundraiser",
     description:
-      "Rally your network to support GMAN by organizing fundraising activities in your community or workplace.",
+      "Rally your network to support CIN by organizing fundraising activities in your community or workplace.",
     icon: Trophy,
     gradient: "linear-gradient(135deg, #caa14d 0%, #b88d3a 100%)",
     cta: "Start Fundraiser",
@@ -852,7 +852,7 @@ const impactStories = ref([
     icon: Utensils,
     title: "2,500+ Meals Served",
     description:
-      "Providing nutritious meals to vulnerable families and communities across Nigeria.",
+      "Providing nutritious meals to vulnerable families and communities across Sample Region.",
     image: "/assets/images/about4.jpg",
   },
   {
@@ -917,7 +917,7 @@ const handleSubmit = async () => {
       from_email: formData.value.email,
       subject: `Get Involved: ${formData.value.interest}`,
       message: `Phone: ${formData.value.phone || "Not provided"}\n\nInterest: ${formData.value.interest}\n\nMessage:\n${formData.value.message}`,
-      to_email: "gmanglobal23@gmail.com",
+      to_email: "hello@example.com",
       reply_to: formData.value.email,
     };
 

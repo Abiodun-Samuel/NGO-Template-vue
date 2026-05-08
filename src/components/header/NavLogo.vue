@@ -14,7 +14,7 @@
       >
         <img
           src="/assets/images/logo/logo.jpg"
-          alt="Glorious Mission Aid Network Logo"
+          alt="Community Impact Network Logo"
           class="w-full h-full object-cover"
         />
 

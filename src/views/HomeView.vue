@@ -10,7 +10,7 @@
     <ServingpeopleSection />
     <GetInvolvedSection />
     <BlogSection
-      blog-url="https://thegloriouschurchinternational.wordpress.com/"
+      blog-url="https://example.com/blog/"
     />
     <DonationCTA />
   </div>

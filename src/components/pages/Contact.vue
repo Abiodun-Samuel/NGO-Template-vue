@@ -59,10 +59,10 @@
 
                 <h3 class="text-lg font-bold text-stone-900 mb-3">Email Us</h3>
                 <a
-                  href="mailto:gmanglobal23@gmail.com"
+                  href="mailto:hello@example.com"
                   class="text-sm text-gman-purple-600 hover:text-gman-purple-700 font-medium transition-colors duration-200 inline-flex items-center gap-2 group/link"
                 >
-                  gmanglobal23@gmail.com
+                  hello@example.com
                   <ArrowRight
                     :size="14"
                     class="group-hover/link:translate-x-1 transition-transform duration-200"
@@ -280,9 +280,9 @@
                         Sorry, there was an error sending your message. Please
                         try again or email us directly at
                         <a
-                          href="mailto:gmanglobal23@gmail.com"
+                          href="mailto:hello@example.com"
                           class="underline font-semibold"
-                          >gmanglobal23@gmail.com</a
+                          >hello@example.com</a
                         >
                       </p>
                     </div>
@@ -322,7 +322,7 @@
                     height="100%"
                     style="border: 0"
                     allowfullscreen=""
-                    title="GMAN Office Location - Adamstown Youth & Community Centre, Dublin, Ireland"
+                    title="CIN Office Location - Adamstown Youth & Community Centre, Dublin, Ireland"
                     loading="lazy"
                     referrerpolicy="no-referrer-when-downgrade"
                     class="grayscale group-hover:grayscale-0 transition-all duration-500"
@@ -445,7 +445,7 @@
           </h2>
           <p class="text-lg sm:text-xl text-white/90 mb-6 sm:mb-8">
             Join us in transforming lives and empowering communities across
-            Nigeria.
+            Sample Region.
           </p>
           <div class="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center">
             <Button
@@ -520,7 +520,7 @@ const handleSubmit = async () => {
       from_email: formData.value.email,
       subject: formData.value.subject,
       message: formData.value.message,
-      to_email: "gmanglobal23@gmail.com",
+      to_email: "hello@example.com",
       reply_to: formData.value.email,
     };
 

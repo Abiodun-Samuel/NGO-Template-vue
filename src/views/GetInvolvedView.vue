@@ -3,7 +3,7 @@
     <PageHero
       badge="Join the Movement"
       title="Be Part of {{Real Change}}"
-      description="Every act of kindness creates ripples of hope. Join us in empowering lives and transforming communities across Nigeria."
+      description="Every act of kindness creates ripples of hope. Join us in empowering lives and transforming communities across Sample Region."
       :breadcrumbs="[{ label: 'Home', to: '/' }, { label: 'Get Involved' }]"
       :stats="[
         { value: '5000+', label: 'Lives Touched' },

@@ -96,7 +96,7 @@
                 <div class="text-sm font-semibold text-stone-900">
                   {{ blogPosts[0].author }}
                 </div>
-                <div class="text-xs text-stone-500">GMAN Team</div>
+                <div class="text-xs text-stone-500">CIN Team</div>
               </div>
             </div>
 
